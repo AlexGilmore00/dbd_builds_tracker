@@ -21,3 +21,4 @@ dependancies for python script:
     - requests             > pip install requests  
     - beautifulsoup4       > pip install beautifulsoup4  
     - Unidecode            > pip install Unidecode  
+a virtual environment is packaged with the compiled windows and linux downloads, these are only necessary to know is downloading the source files
