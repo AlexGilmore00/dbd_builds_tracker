@@ -12,7 +12,7 @@ for windows systems:
     - run the dbd_builds_win32.exe to open the program  
 for linux:  
     - download and unzip the dbd_builds_tracker_linux.tar.gz folder  
-    - run ./dbd_builds to open the program  
+    - run ./dbd_builds from the same directory the file is located in to open the program  
     - if permisions are denied, run 'chmod 111 ./dbd_builds' from the terminal while in the same directory as the file  
 
 this project was made as a way for me to learn the basics of c and so doesnt use any libraries that must be downloaded from external sources. this means the UI is fairly simple and some things may not be done as efficiently as possible however its meant I've had to focus more on how things work and solving problems myself.  
